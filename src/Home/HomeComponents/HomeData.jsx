@@ -140,7 +140,7 @@ export const ProjectData = [
     name: "E-Commerce",
     description:
       "A front-end store interface with product listing, cart system, and dynamic filtering for a mock shopping experience.",
-    link: "/coming-soon",
+    href: "https://rbuy.vercel.app/",
   },
   {
     id: 12,
